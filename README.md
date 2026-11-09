@@ -10,4 +10,6 @@ Aplikasi TodoList CRUD interaktif ini dikembangkan menggunakan **React JS** dan 
 * **Update**: Mengubah dan memperbarui informasi tugas (judul, prioritas, atau status) yang sudah ada.
 * **Delete**: Menghapus tugas tertentu dari daftar dengan mudah[cite: 8].
   
-<img width="860" height="307" alt="image" src="https://github.com/user-attachments/assets/c2783ef5-4fd4-480b-9a87-d775d98d8c60" />
+Hasil gambar prak6.png
+<img width="860" height="307" alt="image" src="https://github.com/user-attachments/assets/27854dba-75b2-4159-a24f-5326481e934a" />
+
